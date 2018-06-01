@@ -1,0 +1,16 @@
+Blade(info): ccache found
+Blade(info): distcc found
+Blade(warning): DISTCC_HOSTS not set but you have distcc installed, will just build locally
+Blade(info): loading BUILDs...
+Blade(info): loading done.
+Blade(info): analyzing dependency graph...
+Blade(info): analyzing done.
+Blade(info): generating build rules...
+Blade(info): CPP=cpp
+Blade(info): CC=gcc
+Blade(info): CXX=g++
+Blade(info): LD=g++
+Blade(info): generating done.
+Blade(info): tunes the parallel jobs number(-j N) to be 4
+Blade(info): success
+Blade(info): cost time is 0:00:02s
